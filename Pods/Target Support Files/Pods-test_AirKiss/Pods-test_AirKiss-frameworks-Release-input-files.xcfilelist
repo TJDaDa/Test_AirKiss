@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-test_AirKiss/Pods-test_AirKiss-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CocoaAsyncSocket/CocoaAsyncSocket.framework
+${BUILT_PRODUCTS_DIR}/Reachability/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework

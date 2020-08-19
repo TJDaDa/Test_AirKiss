@@ -1,0 +1,24 @@
+PODS:
+  - CocoaAsyncSocket (7.6.4)
+  - Reachability (3.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - Reachability
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - Reachability
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 694058e7c0ed05a9e217d1b3c7ded962f4180845
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: ccd03d44797bdddd4a80e554f3b7ef9caf4d5810
+
+COCOAPODS: 1.9.1

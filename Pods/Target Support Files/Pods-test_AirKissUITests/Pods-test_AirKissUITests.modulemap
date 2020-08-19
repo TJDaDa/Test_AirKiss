@@ -1,0 +1,6 @@
+framework module Pods_test_AirKissUITests {
+  umbrella header "Pods-test_AirKissUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
